@@ -30,7 +30,6 @@ PRODUCT_PACKAGES += \
    PixelThemesStubMod \
    QuickAccessWalletMod \
    Remover \
-   ThemedIconsOverlay \
    WallpaperPickerGoogleReleaseMod
 
 # Init service

@@ -36,7 +36,6 @@ LOCAL_OVERRIDES_PACKAGES := \
         ParanoidQuickStep \
         ParanoidQuickStep \
         PixelLauncher \
-        PixelLauncherCustomOverlay \
         PixelLauncherIconsOverlay \
         PixelThemesStub \
         QuickAccessWallet \
